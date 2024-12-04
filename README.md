@@ -1,5 +1,5 @@
 
-![](https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png)
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="image"/>
 <h1 align="center">Hi 👋, I'm YOKESHKUMAR N</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yokeshkumar7105&label=Profile%20views&color=0e75b6&style=flat" alt="yokeshkumar7105" /> </p>
