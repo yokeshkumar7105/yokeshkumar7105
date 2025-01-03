@@ -6,8 +6,10 @@
 
 # 🌐Social Links
 
-<a href="https://www.linkedin.com/in/yokeshkumarn/">
-	<img src="https://github.com/user-attachments/assets/1a0e3554-9a5f-43cb-8187-82d4177cd8fd" alt="LinkedIn" width="24px" height="24px" />
-</a>
+<a href="https://www.linkedin.com/in/yokeshkumarn/"><img src="https://github.com/user-attachments/assets/1a0e3554-9a5f-43cb-8187-82d4177cd8fd" alt="LinkedIn" width="24px" height="24px"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/yokeshkumarcse/"><img src="https://github.com/user-attachments/assets/0a8b644f-8d41-4e2b-af22-2589da59ff0c" alt="Leetcode" width="24px" height="24px"/></a>
+&nbsp;&nbsp;&nbsp;
+
 
 
