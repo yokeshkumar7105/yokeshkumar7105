@@ -4,5 +4,23 @@
   <h1 align="center"><b>Hi 👋, I'm YOKESHKUMAR N<br/></b><br/></h1>
 </p>
 
+# 🌐Social Links
+
+<a href="https://www.linkedin.com/in/yokeshkumarn/">
+	<img src="https://github.com/user-attachments/assets/1a0e3554-9a5f-43cb-8187-82d4177cd8fd" alt="LinkedIn" width="24px" height="24px" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yokeshkumar7105&label=Profile%20views&color=0e75b6&style=flat" alt="yokeshkumar7105" /> </p>
 
