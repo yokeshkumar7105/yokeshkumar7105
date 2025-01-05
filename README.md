@@ -5,7 +5,7 @@
 </p>
 
 # 💼Social Links
-Follow me  on Social Media! 👇
+Check my social profiles 👇
 
 
 <a href="https://www.linkedin.com/in/yokeshkumarn/"><img src="https://github.com/user-attachments/assets/1a0e3554-9a5f-43cb-8187-82d4177cd8fd" alt="LinkedIn" width="36px" height="36px"/></a>
