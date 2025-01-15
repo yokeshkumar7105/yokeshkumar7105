@@ -27,5 +27,3 @@ Check my social profiles 👇
 
 
 [![Yokeshkumar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yokeshkumar7105\&rank_icon=github\&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Yokeshkumar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yokeshkumar7105\&rank_icon=github\&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<!--[![Yokeshkumar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
