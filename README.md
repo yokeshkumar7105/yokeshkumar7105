@@ -32,7 +32,7 @@ Check my social profiles 👇
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yokeshkumar7105&rank_icon=github&text_color=fff&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon" />
 </a>
 <a href="https://github.com/yokeshkumar7105">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokeshkumar7105&text_color=fff&theme=neon&bg_color=24292e&hide_border=true&layout=donut" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokeshkumar7105&text_bold=true&text_color=fff&theme=neon&bg_color=24292e&hide_border=true&layout=donut" />
 </a>
 
 
