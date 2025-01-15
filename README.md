@@ -26,3 +26,5 @@ Check my social profiles 👇
 
 [![Yokeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokeshkumar7105&rank_icon=github&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon#gh-dark-mode-only)](https://github.com/yokeshkumar7105)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokeshkumar7105&theme=neon&bg_color=24292e&hide_border=true&layout=donut)](https://github.com/yokeshkumar7105)
+
