@@ -22,5 +22,7 @@ Check my social profiles 👇
 <a href="https://www.hackerrank.com/profile/yokeshkumarcse"><img src="https://github.com/user-attachments/assets/532edb1c-5be6-407f-ab0d-2d5a46672ee3" alt="HackerRank-30Days Badge" width="70px" height="81px"/></a>
 <a href="https://www.hackerrank.com/profile/yokeshkumarcse"><img src="https://github.com/user-attachments/assets/34497ba7-dba4-46ff-9212-a4ff4525d0ff" alt="HackerRank-30Days Badge" width="76px" height="81px"/></a>-->
 
-[![Yokeshkumar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yokeshkumar7105&rank_icon=github&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon#gh-dark-mode-only)](https://github.com/yokeshkumar7105)
+# 🚀GitHub Stats
+
+[![Yokeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokeshkumar7105&rank_icon=github&hide=contribs,issues&show_icons=true&bg_color=24292e&hide_border=true&theme=neon#gh-dark-mode-only)](https://github.com/yokeshkumar7105)
 
