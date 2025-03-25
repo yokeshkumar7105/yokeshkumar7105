@@ -4,6 +4,26 @@
   <h1 align="center"><b>Hello World!🌍 I'm YOKESHKUMAR N👾<br/></b><br/></h1>
 </p>
 
+<!-- ## 💡Projects
+
+<table>
+  <tr>
+    <th>🏷️Title</th>
+    <th>📝Description</th>
+    <th>💻Technology</th>
+    <th>🔗Link</th>
+  </tr>
+
+  <tr>
+    <td><b>PrepTalk</b> - An Interview AI</td>
+    <td>PrepTalk is a AI powered interview preparation platform for students and mentors. This uses AI to ask questions and provide immediate feedback to answers provided by user.</td>
+    <td><img src="https://img.shields.io/badge/Next%20JS-8A2BE2?style=flat&logoColor=white" alt="Next JS"> &nbsp;<img src="https://img.shields.io/badge/Gemini%20AI-8A2BE2?style=flat&logoColor=white" alt="Gemini"></td>
+    <td><a href="https://github.com/yokeshkumar7105/prepTalk-An-Interview-AI">Link</a></td>
+  </tr>
+</table> -->
+
+
+
 ## 💼Social Links
 Check my social profiles 👇
 
