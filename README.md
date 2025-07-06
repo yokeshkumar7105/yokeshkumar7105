@@ -1,7 +1,8 @@
 <p align="center" id="top-of-readme">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="image" width="80" height="80" />
   <br />
-  <h1 align="center"><b>Hello World!🌍 I'm YOKESHKUMAR N<br/></b><br/></h1>
+<!--   <h1 align="center"><b>Hello World!🌍 I'm YOKESHKUMAR N<br/></b><br/></h1> -->
+  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=6000&pause=1000&color=00FF00&center=true&width=450&lines=Hello+World!%F0%9F%8C%8D+I+am+Yokeshkumar+N;Full+Stack+Developer" alt="Typing SVG" /></a></h1>
 </p>
 
 <!-- ## 💡Projects
