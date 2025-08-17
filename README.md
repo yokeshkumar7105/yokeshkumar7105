@@ -47,6 +47,20 @@ To enhance my development skills further, I ventured into backend development by
     <td><img src="https://img.shields.io/badge/Spring%20Boot-8A2BE2?style=flat&logoColor=white" alt="Spring Boot"> &nbsp;<img src="https://img.shields.io/badge/HTML-8A2BE2?style=flat&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/Javascript-8A2BE2?style=flat&logoColor=white" alt="Javascript"></td>
     <td><a href="https://github.com/yokeshkumar7105/Course-Registration-System/tree/main/courseRegistrationSystem">Link</a></td>
   </tr>
+
+  <tr>
+    <td>Climora - A Weather Forecast Hub</td>
+    <td>The weather web page fetches real-time weather data using a weather API, allowing users to view current conditions based on their location or a searched city.</td>
+    <td><img src="https://img.shields.io/badge/HTML-8A2BE2?style=flat&logoColor=white" alt="HTML"> &nbsp;<img src="https://img.shields.io/badge/CSS-8A2BE2?style=flat&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Javascript-8A2BE2?style=flat&logoColor=white" alt="Javascript"></td>
+    <td><a href="https://github.com/yokeshkumar7105/Weather_App">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>Simulation of TCP using Chat Application Model</td>
+    <td>This project is a simple text-based chat application that enables bi-directional communication between a client and a server using TCP sockets.</td>
+    <td><img src="https://img.shields.io/badge/JAVA-8A2BE2?style=flat&logoColor=white" alt="Java"> &nbsp;</td>
+    <td><a href="https://github.com/yokeshkumar7105/TCP-Chat">Link</a></td>
+  </tr>
   
 </table>
 
