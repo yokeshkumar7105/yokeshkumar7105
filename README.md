@@ -2,7 +2,14 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="image" width="80" height="80" />
   <br />
 <!--   <h1 align="center"><b>Hello World!🌍 I'm YOKESHKUMAR N<br/></b><br/></h1> -->
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&width=525&lines=Hello+World!+I'm+Yokeshkumar+N;Open+for+Development+and+Testing+roles" alt="Typing SVG" /></a></h1>  
+  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&width=525&lines=Hello+World!+I'm+Yokeshkumar+N;Open+for+Development+and+Testing+roles" alt="Typing SVG" /></a>
+    
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokeshkumarcse@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yokeshkumarn/)
+
+
+  </h1>  
+
 </p>
 
 ## 👨‍💻About Me
