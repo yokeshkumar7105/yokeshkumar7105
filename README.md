@@ -80,7 +80,7 @@ Check my social profiles 👇
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/yokesh7105"><img src="https://github.com/user-attachments/assets/65376bc4-ec61-4134-ad89-a6c90b1debe7" alt="Codechef" width="36px" height="36px"/></a>
 
-# 🏅Badges
+## 🏅Badges
 <a href="https://www.hackerrank.com/profile/yokeshkumarcse"><img src="https://github.com/user-attachments/assets/c10ecd0e-3dea-408d-acdb-26791f4a123e" alt="HackerRank Certification" width="500px" height="200px"/></a>
 
 <a href="https://www.hackerrank.com/profile/yokeshkumarcse"><img src="https://github.com/user-attachments/assets/2c3b0668-00ff-46c8-9cef-b1b3522446ba" alt="HackerRank Certification" width="500px" height="200px"/></a>
