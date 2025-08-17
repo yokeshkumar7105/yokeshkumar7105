@@ -38,7 +38,7 @@ To enhance my development skills further, I ventured into backend development by
     <td><b>PrepTalk</b> - An Interview AI</td>
     <td>PrepTalk is a AI powered interview preparation platform for students and mentors. This uses AI to ask questions and provide immediate feedback to answers provided by user.</td>
     <td><img src="https://img.shields.io/badge/Next%20JS-8A2BE2?style=flat&logoColor=white" alt="Next JS"> &nbsp;<img src="https://img.shields.io/badge/Drizzle%20ORM-8A2BE2?style=flat&logoColor=white" alt="Drizzle ORM"> <img src="https://img.shields.io/badge/Gemini%20AI-8A2BE2?style=flat&logoColor=white" alt="Gemini"></td>
-    <td><a href="https://github.com/yokeshkumar7105/prepTalk-An-Interview-AI">Link</a></td>
+    <td> <a href="https://github.com/yokeshkumar7105/prepTalk-An-Interview-AI">Link</a> <a href="https://prep-talk-an-interview-ai.vercel.app/dashboard">Live</a></td>
   </tr>
 
   <tr>
@@ -52,7 +52,7 @@ To enhance my development skills further, I ventured into backend development by
     <td>Climora - A Weather Forecast Hub</td>
     <td>The weather web page fetches real-time weather data using a weather API, allowing users to view current conditions based on their location or a searched city.</td>
     <td><img src="https://img.shields.io/badge/HTML-8A2BE2?style=flat&logoColor=white" alt="HTML"> &nbsp;<img src="https://img.shields.io/badge/CSS-8A2BE2?style=flat&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Javascript-8A2BE2?style=flat&logoColor=white" alt="Javascript"></td>
-    <td><a href="https://github.com/yokeshkumar7105/Weather_App">Link</a></td>
+    <td><a href="https://github.com/yokeshkumar7105/Weather_App">Link</a> <a href="https://climoraweb.netlify.app/">Live</a></td>
   </tr>
 
   <tr>
