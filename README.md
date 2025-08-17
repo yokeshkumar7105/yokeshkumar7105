@@ -5,6 +5,14 @@
   <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=6000&pause=1000&color=00FF00&center=true&width=450&lines=Hello+World!%F0%9F%8C%8D+I+am+Yokeshkumar+N;Full+Stack+Developer" alt="Typing SVG" /></a></h1>
 </p>
 
+## 👨‍💻About Me
+👋 Hey Folks! I am **Yokeshkumar N**, and I am from Chennai. I am currently pursuing my final year of Engineering in **Computer Science** 🎓. Over the past four years, I have been deeply involved in learning and exploring the field of **software development** 💻. I began my journey by learning the fundamentals of **C and Java**, which helped me build a strong foundation in programming. As I progressed, I explored **Object-Oriented Programming (OOP)** and strengthened my problem-solving abilities through **Data Structures and Algorithms (DSA)** 📘. To enhance my development skills further, I ventured into backend development by learning **Spring Boot** ⚙️. Later, I explored **Angular** 🌐 to bridge the gap between backend and frontend, which gave me hands-on experience in full-stack development. In addition, I have practical knowledge of databases, with hands-on experience in working with both **MySQL** 🗄️ and **MongoDB** 🍃, enabling me to design and manage data effectively. 🔍 Currently, I am also learning **Software Testing** 🧪, where I am exploring **manual testing** as well as gaining insights into **automation tools** and testing methodologies. This is helping me strengthen my skills in building not only efficient but also reliable and high-quality software.
+
+🚀I am always **passionate about learning** new technologies, building impactful projects, and growing as a professional in the world of technology.
+
+
+
+
 <!-- ## 💡Projects
 
 <table>
