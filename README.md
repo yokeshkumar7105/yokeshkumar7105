@@ -40,6 +40,14 @@ To enhance my development skills further, I ventured into backend development by
     <td><img src="https://img.shields.io/badge/Next%20JS-8A2BE2?style=flat&logoColor=white" alt="Next JS"> &nbsp;<img src="https://img.shields.io/badge/Drizzle%20ORM-8A2BE2?style=flat&logoColor=white" alt="Drizzle ORM"> <img src="https://img.shields.io/badge/Gemini%20AI-8A2BE2?style=flat&logoColor=white" alt="Gemini"></td>
     <td><a href="https://github.com/yokeshkumar7105/prepTalk-An-Interview-AI">Link</a></td>
   </tr>
+
+  <tr>
+    <td>Course Registration System</td>
+    <td>This project demonstrates GET/POST operations between frontend (HTML, CSS, JS) and backend, with database connectivity. It also resolves CORS issues using @CrossOrigin in the backend.</td>
+    <td><img src="https://img.shields.io/badge/Spring%20Boot-8A2BE2?style=flat&logoColor=white" alt="Spring Boot"> &nbsp;<img src="https://img.shields.io/badge/HTML-8A2BE2?style=flat&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/Javascript-8A2BE2?style=flat&logoColor=white" alt="Javascript"></td>
+    <td><a href="https://github.com/yokeshkumar7105/Course-Registration-System/tree/main/courseRegistrationSystem">Link</a></td>
+  </tr>
+  
 </table>
 
 
