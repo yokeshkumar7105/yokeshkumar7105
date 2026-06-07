@@ -70,6 +70,13 @@ To enhance my development skills further, I ventured into backend development by
     <td><img src="https://img.shields.io/badge/JAVA-8A2BE2?style=flat&logoColor=white" alt="Java"> &nbsp;</td>
     <td><a href="https://github.com/yokeshkumar7105/TCP-Chat">Link</a></td>
   </tr>
+
+  <tr>
+    <td><b>StoryHub</b> - Story Sharing Platform</td>
+    <td>StoryHub is astory publishing platform enabling writers to create and publish stories, and readers to discover and view content</td>
+    <td><img src="https://img.shields.io/badge/React%20JS-8A2BE2?style=flat&logoColor=white" alt="React JS"> &nbsp;<img src="https://img.shields.io/badge/MySQL-8A2BE2?style=flat&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Springboot-8A2BE2?style=flat&logoColor=white" alt="Springboot"></td>
+    <td> <a href="https://github.com/yokeshkumar7105/storyhub">Link</a></td>
+  </tr>
   
 </table>
 
